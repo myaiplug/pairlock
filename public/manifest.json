@@ -1,0 +1,10 @@
+{
+  "name": "PAIRLOCK",
+  "short_name": "PAIRLOCK",
+  "description": "Paper-only prediction market desk. No live orders.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#07080c",
+  "theme_color": "#07080c",
+  "orientation": "portrait"
+}
